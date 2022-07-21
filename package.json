@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/Isaac-merari1/NodeApp/issues"
   },
-  "homepage": "https://github.com/Isaac-merari1/NodeApp#readme"
+  "homepage": "https://github.com/Isaac-merari1/NodeApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "heroku": "^7.60.2",
+    "nodemon": "^2.0.6"
+  }
 }
